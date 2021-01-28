@@ -1,35 +1,23 @@
-## Portfolio
+## Research Interest
+
+- Knowledge Representation and Inference
+- Controlled Natural Language Generation
+- Information Extraction
+- Machine Learning in Multi-Modal Environment
+- Model and Resource Parallelism
+- Cloud Computing
 
 ---
+## Professional Experience 
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [GE Research](https://www.ge.com/research/) Research Intern
+- [Simons Foundation(Flatiron Institute)](https://www.simonsfoundation.org/flatiron/) Research Engineer Intern
+- [Binghamton University](https://www.binghamton.edu/ssie/index.html) Research Assistant & Software Engineer
+- [Live in Bing](https://www.liveinbing.com/) ML & Cloud Engineer Intern
+- [US Army](https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp) KATUSA, Sergeant(E-5)
 
 ---
 
 
+<p style="font-size:12px">
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
