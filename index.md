@@ -1,8 +1,8 @@
 ## Research Interest
 
 - Knowledge Representation and Inference
-- Model and Resource Parallelism
-- Machine Learning in Multi-Modal Environment
+- ML Model and Resource Parallelism
+- Decentralized application & Blockchain network
 - Cloud Computing
 
 ---
