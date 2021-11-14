@@ -1,15 +1,13 @@
 ## Research Interest
 
 - Knowledge Representation and Inference
-- Controlled Natural Language Generation
-- Big Data Engineering
-- Machine Learning in Multi-Modal Environment
 - Model and Resource Parallelism
+- Machine Learning in Multi-Modal Environment
 - Cloud Computing
 
 ---
 ## Professional Experience 
-
+- [Intel](https://www.intel.com/content/www/us/en/homepage.html) Machine Learning Engineer
 - [GE Research](https://www.ge.com/research/) Research Intern
 - [Simons Foundation(Flatiron Institute)](https://www.simonsfoundation.org/flatiron/) Research Engineer Intern
 - [Binghamton University](https://www.binghamton.edu/ssie/index.html) Software Engineer
@@ -20,4 +18,3 @@
 
 
 <p style="font-size:12px">
-
