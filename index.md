@@ -1,8 +1,8 @@
 ## Research Interest
 
+- Natual Language Processing
 - Knowledge Representation and Inference
 - ML Model and Resource Parallelism
-- Decentralized application & Blockchain network
 - Cloud Computing
 
 ---
