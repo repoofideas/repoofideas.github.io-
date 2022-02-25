@@ -5,11 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   people can focus on exciting things.
  
   <br><br>
-  Please visit the blog page or LinkedIn below for more information about me!
-  <br><br>
-  <a href="https://repoofideas.github.io/blog/">Blog</a>
+  Please visit Linkedin or Blog below for more information about me!
   <br><br>
   <a href="https://www.linkedin.com/in/kriskwpan/">LinkedIn</a>
+  <br><br>  
+  <a href="https://repoofideas.github.io/blog/">Blog</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
