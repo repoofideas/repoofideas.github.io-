@@ -1,7 +1,7 @@
 ## Research Interest
+- Parallelism in ML Model & Infrastructure
 - Natual Language Processing
 - Knowledge Representation and Inference
-- ML Model and Resource Parallelism
 - Bioinformatics
 
 ---
