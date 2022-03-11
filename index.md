@@ -10,7 +10,6 @@
 - [GE Research](https://www.ge.com/research/) Machine Learning Research Intern 2020.6 - 2020.8
 - [Simons Foundation(Flatiron Institute)](https://www.simonsfoundation.org/flatiron/) Machine Learning Research Intern 2019.5-2019.8
 - [Live in Bing](https://www.liveinbing.com/) Software Engineer Intern 2017.9 - 2018.2
----
 
 
 
